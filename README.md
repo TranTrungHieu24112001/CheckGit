@@ -1,1 +1,1 @@
-# CheckGit
+# CheckGit on GitHub
